@@ -7,4 +7,5 @@ hello  ljj  good good study  day day up
 di san ci xiu gai 
 qie huan hou fenzhi de xiu gai  hot-fix xiu gai 
 wang ye duan geng gai 
-ssh ce shi 
+ssh ce shi
+ssh push dai ma
